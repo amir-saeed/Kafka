@@ -1,2 +1,2 @@
 # Kafka
-Kafka messaging services code example
+Kafka messaging services code examples
